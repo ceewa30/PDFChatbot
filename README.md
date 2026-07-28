@@ -137,3 +137,5 @@ pypdf>=5.0.0
 faiss-cpu>=1.8.0
 tiktoken>=0.7.0
 ```
+## ⚖️ License
+Distributed under the **MIT License**. See `LICENSE` for more explicit distribution allowances.
